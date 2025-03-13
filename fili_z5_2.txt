@@ -1,0 +1,7 @@
+/* 02.03.25 Szmigielski */ /*Plik zewnętrzny*/
+
+p 		{
+	color: red;
+	font-size: 67px;
+		}
+		
